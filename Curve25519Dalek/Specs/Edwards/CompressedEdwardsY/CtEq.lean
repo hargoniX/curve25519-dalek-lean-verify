@@ -5,6 +5,7 @@ Authors: Hoang Le Truong
 -/
 import Curve25519Dalek.Funs
 import Curve25519Dalek.Specs.Edwards.CompressedEdwardsY.AsBytes
+import Utils.GrindBench
 
 /-! # Spec Theorem for `CompressedEdwardsY::ct_eq`
 

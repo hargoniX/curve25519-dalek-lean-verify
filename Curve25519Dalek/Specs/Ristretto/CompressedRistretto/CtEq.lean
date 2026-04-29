@@ -5,6 +5,7 @@ Authors: Markus Dablander
 -/
 import Curve25519Dalek.Funs
 import Curve25519Dalek.Specs.Ristretto.CompressedRistretto.AsBytes
+import Utils.GrindBench
 
 /-!
 # Spec theorem for `curve25519_dalek::ristretto::CompressedRistretto::ct_eq`

@@ -10,6 +10,7 @@ import Curve25519Dalek.Math.Edwards.Basepoint
 import Curve25519Dalek.Specs.Edwards.EdwardsPoint.Mul
 import Curve25519Dalek.Specs.Backend.Serial.U64.Constants.Ed25519BasepointPoint
 import Curve25519Dalek.ExternallyVerified
+import Utils.GrindBench
 
 /-! # Spec Theorem for `EdwardsPoint::mul_base`
 

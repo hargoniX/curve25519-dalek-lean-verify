@@ -11,6 +11,7 @@ import Curve25519Dalek.Specs.Backend.Serial.U64.Scalar.Scalar52.MontgomeryReduce
 import Curve25519Dalek.Specs.Backend.Serial.U64.Scalar.Scalar52.Pack
 import Curve25519Dalek.Specs.Backend.Serial.U64.Constants.R
 import Curve25519Dalek.Specs.Backend.Serial.U64.Scalar.Scalar52.Invert
+import Utils.GrindBench
 /-! # Spec Theorem for `Scalar::reduce`
 
 Specification and proof for `Scalar::reduce`.

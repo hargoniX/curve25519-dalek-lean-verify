@@ -14,6 +14,7 @@ import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.Square
 import Curve25519Dalek.Specs.Montgomery.MontgomeryPoint.ElligatorEncode
 import Curve25519Dalek.Specs.Field.FieldElement51.SqrtRatioi
 import Curve25519Dalek.Specs.Backend.Serial.U64.Constants.Aplus2OverFour
+import Utils.GrindBench
 
 /-!
 # Spec theorem for `curve25519_dalek::montgomery::differential_add_and_double`

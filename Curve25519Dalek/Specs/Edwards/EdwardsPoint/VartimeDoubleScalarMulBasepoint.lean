@@ -5,6 +5,7 @@ Authors: Oliver Butterley, Alessandro D'Angelo, Liao Zhang
 -/
 import Curve25519Dalek.Funs
 import Curve25519Dalek.Math.Basic
+import Utils.GrindBench
 
 /-! # `EdwardsPoint::vartime_double_scalar_mul_basepoint`
 

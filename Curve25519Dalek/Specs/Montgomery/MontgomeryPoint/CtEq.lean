@@ -10,6 +10,7 @@ import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.FromBytes
 import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.CtEq
 import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.ToBytes
 import Mathlib.Data.Nat.ModEq
+import Utils.GrindBench
 
 /-!
 # Spec theorem for `curve25519_dalek::montgomery::MontgomeryPoint::ct_eq`

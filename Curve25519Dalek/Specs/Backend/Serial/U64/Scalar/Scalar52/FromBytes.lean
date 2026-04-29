@@ -6,6 +6,7 @@ Authors: Markus Dablander, Alessandro D'Angelo
 import Curve25519Dalek.Funs
 import Curve25519Dalek.Math.Basic
 import Curve25519Dalek.Aux
+import Utils.GrindBench
 
 /-! # Spec Theorem for `Scalar52::from_bytes`
 

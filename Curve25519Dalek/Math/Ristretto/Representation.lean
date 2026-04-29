@@ -8,6 +8,7 @@ import Curve25519Dalek.Math.Edwards.Curve
 import Curve25519Dalek.Math.Edwards.Representation
 import Curve25519Dalek.Types
 import Curve25519Dalek.Funs
+import Utils.GrindBench
 
 /-!
 # Ristretto Point Representations

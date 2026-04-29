@@ -8,6 +8,7 @@ import Curve25519Dalek.Math.Edwards.Curve
 import Curve25519Dalek.Math.Edwards.Representation
 import Curve25519Dalek.Math.Montgomery.Curve
 import Curve25519Dalek.Types
+import Utils.GrindBench
 
 /-!
 # Montgomery Point Representations

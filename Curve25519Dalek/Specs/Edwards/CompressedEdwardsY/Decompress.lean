@@ -11,6 +11,7 @@ import Curve25519Dalek.ExternallyVerified
 import Curve25519Dalek.Specs.Edwards.CompressedEdwardsY.Step1
 import Curve25519Dalek.Specs.Edwards.CompressedEdwardsY.Step2
 import Curve25519Dalek.Specs.Edwards.CompressedEdwardsY.AsBytes
+import Utils.GrindBench
 
 /-! # Spec Theorem for `CompressedEdwardsY::decompress`
 

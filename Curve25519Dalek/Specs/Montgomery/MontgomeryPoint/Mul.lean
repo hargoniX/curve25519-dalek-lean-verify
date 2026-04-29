@@ -13,6 +13,7 @@ import Curve25519Dalek.Specs.Scalar.Scalar.AsBytes
 import Curve25519Dalek.ExternallyVerified
 import Curve25519Dalek.Specs.Montgomery.MontgomeryPoint.AsAffine
 import Curve25519Dalek.Specs.Montgomery.ProjectivePoint.DifferentialAddAndDouble
+import Utils.GrindBench
 
 /-!
 # Spec theorem for `curve25519_dalek::montgomery::MontgomeryPoint::mul`

@@ -8,6 +8,7 @@ import Curve25519Dalek.Math.Basic
 import Curve25519Dalek.Math.Edwards.Representation
 import Curve25519Dalek.Math.Montgomery.Curve
 import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.Mul
+import Utils.GrindBench
 /-!
 # Spec theorem for `CompletedPoint::as_extended`
 

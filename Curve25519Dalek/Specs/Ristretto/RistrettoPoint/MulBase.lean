@@ -10,6 +10,7 @@ import Curve25519Dalek.Math.Edwards.Basepoint
 import Curve25519Dalek.ExternallyVerified
 import Curve25519Dalek.Specs.Ristretto.RistrettoPoint.Mul
 import Curve25519Dalek.Specs.Constants.RISTRETTO_BASEPOINT_POINT
+import Utils.GrindBench
 
 /-!
 # Spec theorem for `curve25519_dalek::ristretto::RistrettoPoint::mul_base`

@@ -17,6 +17,7 @@ import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.Conditional
 import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.Neg
 import Curve25519Dalek.Specs.Backend.Serial.U64.Constants.SqrtM1
 import Curve25519Dalek.Specs.Backend.Serial.U64.Constants.InvsqrtAMinusD
+import Utils.GrindBench
 
 /-!
 # Spec theorem for `curve25519_dalek::ristretto::RistrettoPoint::compress`

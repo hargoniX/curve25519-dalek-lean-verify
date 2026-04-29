@@ -8,6 +8,7 @@ import Curve25519Dalek.Math.Basic
 import Curve25519Dalek.Math.Edwards.Basepoint
 import Curve25519Dalek.Math.Edwards.Representation
 import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.FromLimbs
+import Utils.GrindBench
 
 -- nativeDecide is suppressed because `decide` in the proof elaborates via the native kernel
 set_option linter.style.nativeDecide false

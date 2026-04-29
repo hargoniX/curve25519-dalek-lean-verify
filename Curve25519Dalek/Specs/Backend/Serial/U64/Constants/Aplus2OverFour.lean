@@ -6,6 +6,7 @@ Authors: Liao Zhang
 import Curve25519Dalek.Funs
 import Curve25519Dalek.Aux
 import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.FromLimbs
+import Utils.GrindBench
 
 /-!
 # Spec theorem for `constants::APLUS2_OVER_FOUR`

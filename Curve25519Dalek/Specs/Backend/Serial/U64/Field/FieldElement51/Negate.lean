@@ -6,6 +6,7 @@ Authors: Markus Dablander, Alok Singh
 import Curve25519Dalek.Funs
 import Curve25519Dalek.Math.Basic
 import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.Reduce
+import Utils.GrindBench
 
 /-! # Spec Theorem for `FieldElement51::negate`
 

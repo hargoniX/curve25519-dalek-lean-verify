@@ -5,6 +5,7 @@ Authors: Markus Dablander, Lim Jin Xing, Oliver Butterley
 -/
 import Curve25519Dalek.Funs
 import Curve25519Dalek.Math.BitList
+import Utils.GrindBench
 
 
 /-! # Spec Theorem for `Scalar52::to_bytes`

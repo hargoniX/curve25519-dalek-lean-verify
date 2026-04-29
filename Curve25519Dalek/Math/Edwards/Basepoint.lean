@@ -4,6 +4,7 @@ Released under Apache 2.0 license as described in the file LICENSE.
 Authors: Oliver Butterley
 -/
 import Curve25519Dalek.Math.Edwards.Curve
+import Utils.GrindBench
 -- Scalar multiplication over the large-prime field is infeasible for kernel `decide`;
 -- `native_decide` is used instead.
 set_option linter.style.nativeDecide false

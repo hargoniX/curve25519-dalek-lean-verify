@@ -10,6 +10,7 @@ import Curve25519Dalek.Specs.Edwards.CompressedEdwardsY.AsBytes
 import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.Neg
 import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.Mul
 import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.ConditionalAssign
+import Utils.GrindBench
 
 /-! # Spec Theorem for `CompressedEdwardsY::decompress::step_2`
 

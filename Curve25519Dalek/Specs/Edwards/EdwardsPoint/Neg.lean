@@ -7,6 +7,7 @@ import Curve25519Dalek.Funs
 import Curve25519Dalek.Math.Edwards.Representation
 import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.Neg
 import Curve25519Dalek.Math.Montgomery.Curve
+import Utils.GrindBench
 /-! # Spec Theorem for `EdwardsPoint::neg`
 
 Specification and proof for the `Neg` trait implementation for Edwards points.

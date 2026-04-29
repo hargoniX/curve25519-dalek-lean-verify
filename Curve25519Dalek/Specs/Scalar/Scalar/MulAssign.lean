@@ -8,6 +8,7 @@ import Curve25519Dalek.Math.Basic
 import Curve25519Dalek.Specs.Backend.Serial.U64.Scalar.Scalar52.FromBytes
 import Curve25519Dalek.Specs.Backend.Serial.U64.Scalar.Scalar52.Mul
 import Curve25519Dalek.Specs.Backend.Serial.U64.Scalar.Scalar52.Pack
+import Utils.GrindBench
 /-! # Spec Theorem for `Scalar::mul_assign`
 
 Specification and proof for the

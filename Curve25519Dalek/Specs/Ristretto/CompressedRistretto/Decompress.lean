@@ -8,6 +8,7 @@ import Curve25519Dalek.Math.Basic
 import Curve25519Dalek.Math.Ristretto.Representation
 import Curve25519Dalek.Specs.Ristretto.CompressedRistretto.Step1
 import Curve25519Dalek.Specs.Ristretto.CompressedRistretto.Step2
+import Utils.GrindBench
 
 /-!
 # Spec theorem for `curve25519_dalek::ristretto::CompressedRistretto::decompress`

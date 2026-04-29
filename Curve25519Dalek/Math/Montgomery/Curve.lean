@@ -6,6 +6,7 @@ Authors: Hoang Le Truong
 import Curve25519Dalek.Aux
 import Curve25519Dalek.Math.Basic
 import Mathlib.AlgebraicGeometry.EllipticCurve.Affine.Point
+import Utils.GrindBench
 
 /-!
 # Affine Montgomery Curve Points for Curve25519

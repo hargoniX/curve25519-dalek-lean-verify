@@ -9,6 +9,7 @@ import Curve25519Dalek.Aux
 import Mathlib.Tactic.IntervalCases
 import Mathlib.Tactic.GCongr
 import Mathlib.Algebra.BigOperators.Ring.Finset
+import Utils.GrindBench
 
 set_option linter.style.setOption false
 set_option grind.warning false

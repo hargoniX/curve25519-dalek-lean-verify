@@ -6,6 +6,7 @@ Authors: Markus Dablander, Hoang Le Truong, Oliver Butterley
 import Curve25519Dalek.Funs
 import Curve25519Dalek.Math.Basic
 import Curve25519Dalek.Aux
+import Utils.GrindBench
 
 /-! # Specification for `FieldElement51::pow2k`.
 

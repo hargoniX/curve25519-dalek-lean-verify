@@ -12,6 +12,7 @@ import Curve25519Dalek.Specs.Backend.Serial.U64.Scalar.Scalar52.Sub
 import Curve25519Dalek.Specs.Backend.Serial.U64.Scalar.Scalar52.Pack
 import Curve25519Dalek.Specs.Backend.Serial.U64.Scalar.Scalar52.Zero
 import Curve25519Dalek.Specs.Backend.Serial.U64.Constants.R
+import Utils.GrindBench
 
 set_option exponentiation.threshold 260
 

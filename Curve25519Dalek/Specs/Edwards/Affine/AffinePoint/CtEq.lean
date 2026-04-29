@@ -12,6 +12,7 @@ import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.CtEq
 import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.ToBytes
 
 import Mathlib.Data.Nat.ModEq
+import Utils.GrindBench
 
 /-! # Spec Theorem for `AffinePoint::ct_eq`
 

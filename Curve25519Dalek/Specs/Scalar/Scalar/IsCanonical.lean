@@ -8,6 +8,7 @@ import Curve25519Dalek.Math.Basic
 import Curve25519Dalek.Aux
 import Curve25519Dalek.Specs.Scalar.Scalar.Reduce
 import Curve25519Dalek.Specs.Scalar.Scalar.CtEq
+import Utils.GrindBench
 
 /-! # Spec Theorem for `Scalar::is_canonical`
 

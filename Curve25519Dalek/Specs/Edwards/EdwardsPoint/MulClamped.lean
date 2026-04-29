@@ -8,6 +8,7 @@ import Curve25519Dalek.Math.Basic
 import Curve25519Dalek.Math.Edwards.Representation
 import Curve25519Dalek.Specs.Edwards.EdwardsPoint.Mul
 import Curve25519Dalek.Specs.Scalar.ClampInteger
+import Utils.GrindBench
 
 /-! # Spec Theorem for `EdwardsPoint::mul_clamped`
 

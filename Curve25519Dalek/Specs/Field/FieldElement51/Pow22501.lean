@@ -8,6 +8,7 @@ import Curve25519Dalek.Math.Basic
 import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.Pow2K
 import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.Square
 import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.Mul
+import Utils.GrindBench
 /-! # Spec Theorem for `FieldElement51::pow22501`
 
 Specification and proof for `FieldElement51::pow22501`.

@@ -8,6 +8,7 @@ import Aeneas
 import Curve25519Dalek.Math.Basic
 import Mathlib.Data.Nat.Digits.Lemmas
 import Mathlib.Algebra.Order.BigOperators.Group.Finset
+import Utils.GrindBench
 
 /-! # Auxiliary theorems
 

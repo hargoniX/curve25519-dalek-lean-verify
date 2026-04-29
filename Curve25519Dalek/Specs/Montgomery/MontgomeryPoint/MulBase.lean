@@ -10,6 +10,7 @@ import Curve25519Dalek.Specs.Edwards.EdwardsPoint.MulBase
 import Curve25519Dalek.Specs.Edwards.EdwardsPoint.ToMontgomery
 import Curve25519Dalek.Math.Edwards.Basepoint
 import Curve25519Dalek.ExternallyVerified
+import Utils.GrindBench
 
 /-!
 # Spec theorem for `curve25519_dalek::montgomery::MontgomeryPoint::mul_base`

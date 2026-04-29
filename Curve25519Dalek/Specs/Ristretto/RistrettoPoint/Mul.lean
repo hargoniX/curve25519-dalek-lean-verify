@@ -7,6 +7,7 @@ import Curve25519Dalek.Funs
 import Curve25519Dalek.Math.Basic
 import Curve25519Dalek.Math.Ristretto.Representation
 import Curve25519Dalek.Specs.Edwards.EdwardsPoint.Mul
+import Utils.GrindBench
 
 /-!
 # Spec theorem for `curve25519_dalek::ristretto::RistrettoPoint::mul`

@@ -6,6 +6,7 @@ Authors: Hoang Le Truong
 import Curve25519Dalek.Funs
 import Curve25519Dalek.Math.Basic
 import Curve25519Dalek.Specs.Backend.Serial.CurveModels.CompletedPoint.Add
+import Utils.GrindBench
 
 /-!
 # Spec theorem for `CompletedPoint::add`

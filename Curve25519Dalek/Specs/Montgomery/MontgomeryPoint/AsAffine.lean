@@ -9,6 +9,7 @@ import Curve25519Dalek.Math.Montgomery.Representation
 import Curve25519Dalek.Specs.Field.FieldElement51.Invert
 import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.Mul
 import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.ToBytes
+import Utils.GrindBench
 
 /-!
 # Spec theorem for `curve25519_dalek::montgomery::ProjectivePoint::as_affine`

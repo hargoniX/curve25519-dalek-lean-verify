@@ -3,6 +3,7 @@
 import Aeneas
 import Curve25519Dalek.Types
 import Curve25519Dalek.FunsExternal
+import Utils.GrindBench
 open Aeneas Aeneas.Std Result ControlFlow Error
 set_option linter.dupNamespace false
 set_option linter.hashCommand false

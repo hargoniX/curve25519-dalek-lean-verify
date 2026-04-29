@@ -4,6 +4,7 @@ Released under Apache 2.0 license as described in the file LICENSE.
 Authors: Oliver Butterley, Markus Dablander
 -/
 import Curve25519Dalek.Funs
+import Utils.GrindBench
 
 /-! # Spec Theorem for `Scalar::as_bytes`
 

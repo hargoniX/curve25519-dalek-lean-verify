@@ -7,6 +7,7 @@ import Curve25519Dalek.Funs
 import Curve25519Dalek.Math.Basic
 import Curve25519Dalek.Aux
 import Curve25519Dalek.Specs.Scalar.Scalar.Reduce
+import Utils.GrindBench
 
 /-! # Spec Theorem for `Scalar::from_bytes_mod_order`
 

@@ -9,6 +9,7 @@ import Curve25519Dalek.Math.Edwards.Representation
 import Curve25519Dalek.ExternallyVerified
 import Curve25519Dalek.Specs.Edwards.EdwardsPoint.ToAffine
 import Curve25519Dalek.Specs.Edwards.Affine.AffinePoint.Compress
+import Utils.GrindBench
 
 /-! # Spec Theorem for `EdwardsPoint::compress`
 

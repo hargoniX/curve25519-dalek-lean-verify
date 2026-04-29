@@ -4,6 +4,7 @@ Released under Apache 2.0 license as described in the file LICENSE.
 Authors: Liao Zhang
 -/
 import Curve25519Dalek.Funs
+import Utils.GrindBench
 
 /-!
 # Spec theorem for `curve25519_dalek::montgomery::MontgomeryPoint::conditional_select`

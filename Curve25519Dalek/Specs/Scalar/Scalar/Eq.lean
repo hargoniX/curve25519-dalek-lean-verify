@@ -5,6 +5,7 @@ Authors: Hoang Le Truong
 -/
 import Curve25519Dalek.Funs
 import Curve25519Dalek.Specs.Scalar.Scalar.CtEq
+import Utils.GrindBench
 /-! # Spec Theorem for `Scalar::eq`
 
 Specification and proof for the `eq` (PartialEq) trait implementation for Scalar.

@@ -7,6 +7,7 @@ import Curve25519Dalek.Funs
 import Curve25519Dalek.Math.Basic
 import Curve25519Dalek.Aux
 import Curve25519Dalek.Specs.Scalar.Scalar.IsCanonical
+import Utils.GrindBench
 
 /-! # Spec Theorem for `Scalar::from_canonical_bytes`
 

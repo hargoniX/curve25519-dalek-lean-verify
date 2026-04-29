@@ -7,6 +7,7 @@ import Curve25519Dalek.Funs
 import Curve25519Dalek.Math.Basic
 import Curve25519Dalek.Specs.Backend.Serial.U64.Scalar.Scalar52.FromBytesWide
 import Curve25519Dalek.Specs.Backend.Serial.U64.Scalar.Scalar52.Pack
+import Utils.GrindBench
 
 /-! # Spec Theorem for `Scalar::from_bytes_mod_order_wide`
 

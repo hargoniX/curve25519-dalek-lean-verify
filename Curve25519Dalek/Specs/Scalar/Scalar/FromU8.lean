@@ -6,6 +6,7 @@ Authors: Hoang Le Truong
 import Curve25519Dalek.Funs
 import Curve25519Dalek.Math.Basic
 import Curve25519Dalek.Aux
+import Utils.GrindBench
 
 open Aeneas Aeneas.Std Result Aeneas.Std.WP
 

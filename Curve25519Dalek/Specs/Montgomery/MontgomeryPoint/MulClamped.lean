@@ -9,6 +9,7 @@ import Curve25519Dalek.Math.Basic
 import Curve25519Dalek.Math.Montgomery.Representation
 import Curve25519Dalek.Specs.Montgomery.MontgomeryPoint.Mul
 import Curve25519Dalek.Specs.Scalar.ClampInteger
+import Utils.GrindBench
 
 /-!
 # Spec theorem for `curve25519_dalek::montgomery::MontgomeryPoint::mul_clamped`

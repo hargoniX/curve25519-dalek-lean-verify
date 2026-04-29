@@ -7,6 +7,7 @@ import Curve25519Dalek.Funs
 import Curve25519Dalek.Math.Basic
 import Curve25519Dalek.Specs.Field.FieldElement51.Pow22501
 import Curve25519Dalek.Math.Edwards.Curve
+import Utils.GrindBench
 /-! # Spec Theorem for `FieldElement51::invert`
 
 Specification and proof for `FieldElement51::invert`.

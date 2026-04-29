@@ -9,6 +9,7 @@ import Curve25519Dalek.Funs
 import Curve25519Dalek.Types
 import Mathlib.Algebra.Field.ZMod
 import Mathlib.Tactic.MkIffOfInductiveProp
+import Utils.GrindBench
 
 /-!
 # Edwards Point Representations

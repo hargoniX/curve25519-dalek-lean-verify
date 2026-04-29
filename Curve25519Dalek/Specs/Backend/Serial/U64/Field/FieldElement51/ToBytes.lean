@@ -9,6 +9,7 @@ import Curve25519Dalek.Aux
 import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.Reduce
 import Curve25519Dalek.Tactics
 import Curve25519Dalek.ExternallyVerified
+import Utils.GrindBench
 
 
 /-! # to_bytes

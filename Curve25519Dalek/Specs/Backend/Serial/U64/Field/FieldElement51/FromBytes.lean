@@ -7,6 +7,7 @@ import Curve25519Dalek.Math.BitList
 import Curve25519Dalek.Funs
 import Curve25519Dalek.Aux
 import Curve25519Dalek.ExternallyVerified
+import Utils.GrindBench
 
 /-! # FromBytes
 

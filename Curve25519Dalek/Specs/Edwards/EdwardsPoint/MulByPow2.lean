@@ -10,7 +10,7 @@ import Curve25519Dalek.Specs.Edwards.EdwardsPoint.AsProjective
 import Curve25519Dalek.Specs.Backend.Serial.CurveModels.ProjectivePoint.Double
 import Curve25519Dalek.Specs.Backend.Serial.CurveModels.CompletedPoint.AsProjective
 import Curve25519Dalek.Specs.Backend.Serial.CurveModels.CompletedPoint.AsExtended
-import Mathlib
+import Utils.GrindBench
 
 /-! # Spec Theorem for `EdwardsPoint::mul_by_pow_2`
 

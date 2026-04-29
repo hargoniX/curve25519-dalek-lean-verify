@@ -10,6 +10,7 @@ import Mathlib.NumberTheory.LegendreSymbol.Basic
 import Mathlib.Tactic.NormNum.LegendreSymbol
 import PrimeCert.PrimeList
 import Mathlib.FieldTheory.Finite.Basic
+import Utils.GrindBench
 
 /-! # Common Definitions
 

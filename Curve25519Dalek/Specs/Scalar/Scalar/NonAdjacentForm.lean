@@ -5,6 +5,7 @@ Authors: Oliver Butterley, Markus Dablander
 -/
 import Curve25519Dalek.Funs
 import Curve25519Dalek.Math.Basic
+import Utils.GrindBench
 
 /-! # Spec Theorem for `Scalar::non_adjacent_form`
 

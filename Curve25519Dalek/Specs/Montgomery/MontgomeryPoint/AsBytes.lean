@@ -5,6 +5,7 @@ Authors: Liao Zhang
 -/
 import Curve25519Dalek.Funs
 import Curve25519Dalek.Math.Basic
+import Utils.GrindBench
 
 /-!
 # Spec theorem for `curve25519_dalek::montgomery::MontgomeryPoint::as_bytes`

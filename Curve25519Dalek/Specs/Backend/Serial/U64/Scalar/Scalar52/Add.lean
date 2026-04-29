@@ -10,6 +10,7 @@ import Curve25519Dalek.Math.Basic
 import Curve25519Dalek.Specs.Backend.Serial.U64.Scalar.Scalar52.Sub
 import Curve25519Dalek.Specs.Backend.Serial.U64.Constants.L
 import Mathlib.Data.Nat.ModEq
+import Utils.GrindBench
 
 
 /-! # Spec Theorem for `Scalar52::add`

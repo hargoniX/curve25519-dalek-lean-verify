@@ -10,6 +10,7 @@ import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.FromBytes
 import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.ToBytes
 import Curve25519Dalek.Specs.Field.FieldElement51.IsNegative
 import Curve25519Dalek.Specs.Ristretto.CompressedRistretto.AsBytes
+import Utils.GrindBench
 
 /-!
 # Spec theorem for `curve25519_dalek::ristretto::decompress::step_1`

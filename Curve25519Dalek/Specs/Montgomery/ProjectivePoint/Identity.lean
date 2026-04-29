@@ -9,6 +9,7 @@ import Curve25519Dalek.Math.Montgomery.Representation
 import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.ZERO
 import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.ONE
 import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.FromLimbs
+import Utils.GrindBench
 
 /-!
 # Spec theorem for `curve25519_dalek::montgomery::ProjectivePoint::identity`

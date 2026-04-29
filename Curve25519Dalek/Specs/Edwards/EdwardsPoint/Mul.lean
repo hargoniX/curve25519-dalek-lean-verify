@@ -8,6 +8,7 @@ import Curve25519Dalek.Math.Basic
 import Curve25519Dalek.Math.Edwards.Representation
 import Curve25519Dalek.Specs.Backend.Serial.ScalarMul.VariableBase.Mul
 import Curve25519Dalek.ExternallyVerified
+import Utils.GrindBench
 
 /-! # Spec Theorems for `EdwardsPoint::mul`
 

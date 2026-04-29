@@ -5,6 +5,7 @@ Authors: Oliver Butterley, Alessandro D'Angelo, Liao Zhang
 -/
 import Curve25519Dalek.Funs
 import Curve25519Dalek.Math.Basic
+import Utils.GrindBench
 
 /-! # straus_multiscalar_mul
 

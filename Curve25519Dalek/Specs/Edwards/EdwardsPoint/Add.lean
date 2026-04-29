@@ -8,6 +8,7 @@ import Curve25519Dalek.Math.Edwards.Representation
 import Curve25519Dalek.Specs.Edwards.EdwardsPoint.AsProjectiveNiels
 import Curve25519Dalek.Specs.Backend.Serial.CurveModels.CompletedPoint.Add
 import Curve25519Dalek.Specs.Backend.Serial.CurveModels.CompletedPoint.AsExtended
+import Utils.GrindBench
 /-! # Spec Theorems for `EdwardsPoint::add`
 
 Specification and proof for the `add` trait implementations for Edwards points.

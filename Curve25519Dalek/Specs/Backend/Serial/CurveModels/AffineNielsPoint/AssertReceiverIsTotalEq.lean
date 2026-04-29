@@ -5,6 +5,7 @@ Authors: Hoang Le Truong
 -/
 import Curve25519Dalek.Funs
 import Curve25519Dalek.Math.Basic
+import Utils.GrindBench
 /-!
 # Spec theorem for `AffineNielsPoint::assert_receiver_is_total_eq`
 

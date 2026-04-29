@@ -18,6 +18,7 @@ import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.Conditional
 import Curve25519Dalek.Specs.Backend.Serial.U64.Constants.SqrtM1
 import Curve25519Dalek.Specs.Field.FieldElement51.Invert
 import Curve25519Dalek.Specs.Field.FieldElement51.IsZero
+import Utils.GrindBench
 /-! # Spec Theorem for `FieldElement51::sqrt_ratio_i`
 
 Specification and proof for `FieldElement51::sqrt_ratio_i`.

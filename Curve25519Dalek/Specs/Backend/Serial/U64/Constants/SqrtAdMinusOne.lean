@@ -5,6 +5,7 @@ Authors: Hoang Le Truong
 -/
 import Curve25519Dalek.Funs
 import Curve25519Dalek.Math.Basic
+import Utils.GrindBench
 
 /-! # Spec Theorem for `constants::SQRT_AD_MINUS_ONE`
 

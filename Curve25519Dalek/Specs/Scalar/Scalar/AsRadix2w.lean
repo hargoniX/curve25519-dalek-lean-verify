@@ -10,6 +10,7 @@ import Curve25519Dalek.Specs.Scalar.Scalar.ConditionalSelect
 import Curve25519Dalek.Specs.Scalar.ReadLeU64Into
 import Curve25519Dalek.Specs.Scalar.Scalar.AsRadix16
 import Curve25519Dalek.Specs.Scalar.Scalar.ToRadix2wSizeHint
+import Utils.GrindBench
 
 /-! # Spec Theorem for `as_radix_2w`: the digit-extraction loop
 

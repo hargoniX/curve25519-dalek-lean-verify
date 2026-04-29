@@ -6,6 +6,7 @@ Authors: Oliver Butterley, Zhang-Liao, Alessandro D'Angelo,
 -/
 import Aeneas
 import Curve25519Dalek.Types
+import Utils.GrindBench
 
 /-!
 # External function definitions for `curve25519_dalek`

@@ -8,6 +8,7 @@ import Curve25519Dalek.Math.Basic
 import Curve25519Dalek.Specs.Field.FieldElement51.SqrtRatioi
 import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.ONE
 import Curve25519Dalek.Specs.Backend.Serial.U64.Constants.SqrtM1
+import Utils.GrindBench
 
 /-! # Spec Theorem for `FieldElement51::invsqrt`
 

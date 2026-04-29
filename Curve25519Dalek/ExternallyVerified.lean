@@ -5,6 +5,7 @@ Authors: Oliver Butterley
 -/
 import Lean
 import Mathlib.Tactic
+import Utils.GrindBench
 
 /-! # Externally Verified attribute
 

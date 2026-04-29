@@ -10,6 +10,7 @@ import Curve25519Dalek.ExternallyVerified
 import Curve25519Dalek.Aux
 import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.ToBytes
 import Curve25519Dalek.Specs.Field.FieldElement51.IsNegative
+import Utils.GrindBench
 
 /-! # Spec Theorem for `AffinePoint::compress`
 

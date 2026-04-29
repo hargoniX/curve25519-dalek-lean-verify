@@ -10,6 +10,7 @@ import Curve25519Dalek.Specs.Edwards.EdwardsPoint.Identity
 import Curve25519Dalek.Specs.Edwards.EdwardsPoint.CtEq
 import Curve25519Dalek.Specs.Edwards.CompressedEdwardsY.Identity
 import Curve25519Dalek.Specs.Constants.BASEPOINT_ORDER_PRIVATE
+import Utils.GrindBench
 /-! # Spec Theorem for `EdwardsPoint::is_torsion_free`
 
 Specification and proof for `EdwardsPoint::is_torsion_free`.

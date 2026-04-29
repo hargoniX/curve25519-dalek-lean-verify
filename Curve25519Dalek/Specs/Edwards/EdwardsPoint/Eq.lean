@@ -7,6 +7,7 @@ import Curve25519Dalek.Funs
 import Curve25519Dalek.Math.Edwards.Representation
 import Curve25519Dalek.Specs.Edwards.EdwardsPoint.CtEq
 import Curve25519Dalek.Math.Montgomery.Curve
+import Utils.GrindBench
 /-! # Spec Theorem for `EdwardsPoint::eq`
 
 Specification and proof for the `eq` (PartialEq) trait implementation for Edwards points.

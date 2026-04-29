@@ -8,6 +8,7 @@ import Curve25519Dalek.Math.Edwards.Representation
 import Curve25519Dalek.Specs.Edwards.EdwardsPoint.MulByCofactor
 import Curve25519Dalek.Specs.Edwards.EdwardsPoint.Identity
 import Curve25519Dalek.Specs.Edwards.EdwardsPoint.CtEq
+import Utils.GrindBench
 
 /-! # Spec Theorem for `EdwardsPoint::is_small_order`
 

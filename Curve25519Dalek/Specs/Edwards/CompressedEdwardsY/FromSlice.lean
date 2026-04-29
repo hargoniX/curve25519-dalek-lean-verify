@@ -5,6 +5,7 @@ Authors: Hoang Le Truong
 -/
 import Curve25519Dalek.Funs
 import Curve25519Dalek.Specs.Ristretto.CompressedRistretto.FromSlice
+import Utils.GrindBench
 
 /-! # Spec Theorem for `CompressedEdwardsY::from_slice`
 

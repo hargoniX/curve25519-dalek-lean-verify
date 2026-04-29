@@ -14,7 +14,7 @@ import Curve25519Dalek.Specs.Backend.Serial.CurveModels.ProjectivePoint.Double
 import Curve25519Dalek.Specs.Window.LookupTable.From
 import Curve25519Dalek.Specs.Window.LookupTable.Select
 import Curve25519Dalek.ExternallyVerified
-import Mathlib
+import Utils.GrindBench
 
 /-! # Spec Theorem for `variable_base::mul_loop`
 

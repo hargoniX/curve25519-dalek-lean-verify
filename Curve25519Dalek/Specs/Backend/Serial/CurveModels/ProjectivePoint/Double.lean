@@ -13,6 +13,7 @@ import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.Sub
 import Curve25519Dalek.Math.Edwards.Curve
 import Curve25519Dalek.Math.Edwards.Representation
 import Mathlib.Data.ZMod.Basic
+import Utils.GrindBench
 
 -- Required for the #setup_aeneas_simps macro below
 set_option linter.hashCommand false

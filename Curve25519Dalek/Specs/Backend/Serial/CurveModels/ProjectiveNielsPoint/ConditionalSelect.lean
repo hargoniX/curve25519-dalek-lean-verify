@@ -6,6 +6,7 @@ Authors: Hoang Le Truong
 import Curve25519Dalek.Funs
 import Curve25519Dalek.Math.Basic
 import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.ConditionalSelect
+import Utils.GrindBench
 /-!
 # Spec theorem for `ProjectiveNielsPoint::conditional_select`
 

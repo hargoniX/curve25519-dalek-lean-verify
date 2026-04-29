@@ -8,6 +8,7 @@ import Curve25519Dalek.Funs
 import Curve25519Dalek.Aux
 import Curve25519Dalek.Math.Basic
 import Curve25519Dalek.Specs.Backend.Serial.U64.Scalar.M
+import Utils.GrindBench
 
 
 set_option exponentiation.threshold 416

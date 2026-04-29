@@ -16,6 +16,7 @@ import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.ONE
 import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.MINUS_ONE
 import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.CtEq
 import Curve25519Dalek.Math.Montgomery.Representation
+import Utils.GrindBench
 
 /-!
 # Spec theorem for `curve25519_dalek::montgomery::MontgomeryPoint::to_edwards`

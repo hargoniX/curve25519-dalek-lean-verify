@@ -7,6 +7,7 @@ import Curve25519Dalek.Funs
 import Curve25519Dalek.Math.Basic
 import Curve25519Dalek.Specs.Backend.Serial.U64.Scalar.Scalar52.Pack
 import Curve25519Dalek.Specs.Backend.Serial.U64.Scalar.Scalar52.FromBytes
+import Utils.GrindBench
 /-! # Spec Theorem for `Scalar::unpack`
 
 Specification and proof for `Scalar::unpack`.

@@ -7,6 +7,7 @@ import Curve25519Dalek.Funs
 import Curve25519Dalek.Math.Basic
 import Curve25519Dalek.Aux
 import Curve25519Dalek.Specs.Backend.Serial.U64.Constants.L
+import Utils.GrindBench
 
 /-! # Spec Theorem for `Scalar52::conditional_add_l`
 

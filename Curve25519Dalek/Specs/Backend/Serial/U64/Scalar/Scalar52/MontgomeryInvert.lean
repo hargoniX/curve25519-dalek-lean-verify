@@ -10,6 +10,7 @@ import Curve25519Dalek.Specs.Backend.Serial.U64.Scalar.Scalar52.MontgomerySquare
 import Curve25519Dalek.Specs.Backend.Serial.U64.Scalar.Scalar52.SquareMultiply
 
 import Mathlib.Data.Int.ModEq
+import Utils.GrindBench
 
 /-! # Spec Theorem for `Scalar52::montgomery_invert`
 

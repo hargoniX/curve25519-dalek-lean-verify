@@ -5,6 +5,7 @@ Authors: Markus Dablander
 -/
 import Curve25519Dalek.Funs
 import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.ConditionalSelect
+import Utils.GrindBench
 
 /-! # Spec Theorem for `EdwardsPoint::conditional_select`
 

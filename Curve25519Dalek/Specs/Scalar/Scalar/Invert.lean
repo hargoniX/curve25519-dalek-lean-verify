@@ -10,6 +10,7 @@ import Curve25519Dalek.TypesAux
 import Curve25519Dalek.Specs.Scalar.Scalar.Unpack
 import Curve25519Dalek.Specs.Backend.Serial.U64.Scalar.Scalar52.Invert
 import Curve25519Dalek.Specs.Backend.Serial.U64.Scalar.Scalar52.Pack
+import Utils.GrindBench
 
 /-! # Spec Theorem for `Scalar::invert`
 

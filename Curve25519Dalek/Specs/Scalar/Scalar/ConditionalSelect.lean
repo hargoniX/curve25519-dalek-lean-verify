@@ -4,6 +4,7 @@ Released under Apache 2.0 license as described in the file LICENSE.
 Authors: Hoang Le Truong
 -/
 import Curve25519Dalek.Funs
+import Utils.GrindBench
 
 /-! # Spec Theorem for `Scalar::conditional_select`
 

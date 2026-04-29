@@ -9,6 +9,7 @@ import Curve25519Dalek.Aux
 import Curve25519Dalek.Math.Basic
 import Curve25519Dalek.Specs.Backend.Serial.U64.Scalar.Scalar52.ConditionalAddL
 import Curve25519Dalek.Specs.Backend.Serial.U64.Scalar.Scalar52.Zero
+import Utils.GrindBench
 
 set_option exponentiation.threshold 260
 

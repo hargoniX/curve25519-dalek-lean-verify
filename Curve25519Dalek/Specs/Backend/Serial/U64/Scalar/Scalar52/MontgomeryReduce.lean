@@ -14,6 +14,7 @@ import Curve25519Dalek.Specs.Backend.Serial.U64.Scalar.Scalar52.Sub
 import Mathlib.Data.Nat.ModEq
 import Mathlib.Data.Int.ModEq
 import Mathlib.Data.ZMod.Basic
+import Utils.GrindBench
 
 /-! # Spec Theorem for `Scalar52::montgomery_reduce`
 

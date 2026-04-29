@@ -9,6 +9,7 @@ import Curve25519Dalek.Math.Edwards.Representation
 import Curve25519Dalek.Specs.Edwards.EdwardsPoint.AsProjectiveNiels
 import Curve25519Dalek.Specs.Backend.Serial.CurveModels.ProjectiveNielsPoint.Sub
 import Curve25519Dalek.Specs.Backend.Serial.CurveModels.CompletedPoint.AsExtended
+import Utils.GrindBench
 
 /-! # Spec Theorem for `EdwardsPoint::sub`
 

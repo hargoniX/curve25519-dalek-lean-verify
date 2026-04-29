@@ -9,6 +9,7 @@ import Curve25519Dalek.Math.Ristretto.Representation
 import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.CtEq
 import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.Mul
 import Mathlib.Data.Nat.ModEq
+import Utils.GrindBench
 
 /-!
 # Spec theorem for `curve25519_dalek::ristretto::RistrettoPoint::ct_eq`

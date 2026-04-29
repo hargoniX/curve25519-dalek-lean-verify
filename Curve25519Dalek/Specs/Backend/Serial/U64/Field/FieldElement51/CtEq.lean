@@ -5,6 +5,7 @@ Authors: Hoang Le Truong
 -/
 import Curve25519Dalek.Funs
 import Curve25519Dalek.Specs.Backend.Serial.U64.Field.FieldElement51.ToBytes
+import Utils.GrindBench
 /-! # Spec Theorem for `FieldElement51::ct_eq`
 
 Specification and proof for constant-time equality on FieldElement51.

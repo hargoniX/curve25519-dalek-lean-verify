@@ -5,6 +5,7 @@ Authors: Oliver Butterley, Markus Dablander
 -/
 import Curve25519Dalek.Aux
 import Curve25519Dalek.Funs
+import Utils.GrindBench
 
 /-! # AddAssign
 

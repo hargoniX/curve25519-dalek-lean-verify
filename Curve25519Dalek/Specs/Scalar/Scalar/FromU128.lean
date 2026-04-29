@@ -6,6 +6,7 @@ Authors: Hoang Le Truong
 import Curve25519Dalek.Funs
 import Curve25519Dalek.Math.Basic
 import Curve25519Dalek.Aux
+import Utils.GrindBench
 /-! # Spec Theorem for `Scalar::from` (From<u128>)
 
 Specification and proof for the `From<u128>` trait implementation for Scalar.

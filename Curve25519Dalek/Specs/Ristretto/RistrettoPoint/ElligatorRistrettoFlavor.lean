@@ -22,6 +22,7 @@ import Curve25519Dalek.Specs.Backend.Serial.U64.Constants.EdwardsD
 import Curve25519Dalek.Specs.Backend.Serial.U64.Constants.MinusOne
 import Curve25519Dalek.Specs.Backend.Serial.U64.Constants.SqrtAdMinusOne
 import Curve25519Dalek.Specs.Backend.Serial.U64.Constants.EdwardsDMinusOneSquared
+import Utils.GrindBench
 
 /-!
 # Spec theorem for `curve25519_dalek::ristretto::RistrettoPoint::elligator_ristretto_flavor`
